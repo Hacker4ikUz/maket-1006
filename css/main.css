@@ -207,7 +207,7 @@ header {
     background: #08263F;
 }
 .box-img{
-    background: url('../img/2p.png');
+    background: url('../img/2p.png')0 0 no-repeat;
     width: 1440px;
     height: 580px;
     margin: 0 auto;
